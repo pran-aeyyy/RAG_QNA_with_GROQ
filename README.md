@@ -28,6 +28,6 @@ This project implements a Retrieval-Augmented Generation (RAG) based QnA Bot usi
   
 
 ## 🎯 How It Works
-1️⃣ Upload a DocumentSelect a PDF, TXT, or DOCX file to upload.The document is processed and stored in FAISS.
-2️⃣ Ask a QuestionEnter a question related to the uploaded document.The bot retrieves relevant chunks using FAISS.
-3️⃣ Get AI-Powered AnswersGroq's LLM generates a well-structured response based on the retrieved context.
+- 1️⃣ Upload a DocumentSelect a PDF, TXT, or DOCX file to upload.The document is processed and stored in FAISS.
+- 2️⃣ Ask a QuestionEnter a question related to the uploaded document.The bot retrieves relevant chunks using FAISS.
+- 3️⃣ Get AI-Powered AnswersGroq's LLM generates a well-structured response based on the retrieved context.
