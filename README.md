@@ -10,11 +10,11 @@ This project implements a Retrieval-Augmented Generation (RAG) based QnA Bot usi
 ![Screenshot 2025-03-11 175226](https://github.com/user-attachments/assets/920fa5b9-b9fb-4fa5-8e4a-332dc7d29d25)
 
 ## 🔹 Features
-📂 Document Upload: Supports PDF, TXT, and DOCX file formats.
-🔍 Efficient Search: Uses FAISS to retrieve relevant document chunks.
-🧠 AI-Powered Answers: Uses Groq's LLM for accurate and context-aware responses.
-🏆 SBERT Embeddings: Provides fast and efficient document vectorization.
-🎨 Interactive UI: Built with Streamlit for a user-friendly experience.
+- 📂 Document Upload: Supports PDF, TXT, and DOCX file formats.
+- 🔍 Efficient Search: Uses FAISS to retrieve relevant document chunks.
+- 🧠 AI-Powered Answers: Uses Groq's LLM for accurate and context-aware responses.
+- 🏆 SBERT Embeddings: Provides fast and efficient document vectorization.
+- 🎨 Interactive UI: Built with Streamlit for a user-friendly experience.
 
 ## 🛠 Tech Stack
 - LangChain: For integrating LLMs and retrieval-based processing.
