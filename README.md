@@ -6,7 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) based QnA Bot usi
 ## Screenshots
 
 ![Screenshot 2025-03-11 175159](https://github.com/user-attachments/assets/dc72d729-0b2d-4785-a628-9a89721460ca)
-S
+
 ![Screenshot 2025-03-11 175226](https://github.com/user-attachments/assets/920fa5b9-b9fb-4fa5-8e4a-332dc7d29d25)
 
 ## 🔹 Features
